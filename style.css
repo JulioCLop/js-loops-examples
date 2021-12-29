@@ -1,0 +1,10 @@
+.warning{
+    font-size: 5rem;
+    color: orange;
+    transition: 1s all;
+}
+.remove{
+    font-size: 2rem;
+    color: black;
+    transition: all 1s;
+}
